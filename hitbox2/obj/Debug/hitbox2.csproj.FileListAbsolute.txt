@@ -1,0 +1,8 @@
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\obj\Debug\hitbox2.csprojResolveAssemblyReference.cache
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\bin\Debug\hitbox2.exe
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\bin\Debug\hitbox2.pdb
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\bin\Debug\OpenTK.dll
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\bin\Debug\OpenTK.pdb
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\bin\Debug\OpenTK.xml
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\obj\Debug\hitbox2.exe
+C:\Users\chava\OneDrive\Documentos\SharpDevelop Projects\hitbox2\hitbox2\obj\Debug\hitbox2.pdb
